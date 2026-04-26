@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mano%20Sekar%20M&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ManoSekar%20M&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=18" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+premium+mobile+experiences+%F0%9F%9A%80;Flutter+%7C+Dart+%7C+MERN+Stack+Engineer;Crafting+apps+that+people+love+%E2%9D%A4%EF%B8%8F;Open+to+exciting+opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
