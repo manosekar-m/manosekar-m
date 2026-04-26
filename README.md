@@ -1,165 +1,133 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Manosekar%20M&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Dev%20%7C%20Full%20Stack%20%7C%20Data%20%26%20ML%20Enthusiast&descAlignY=60&descSize=20&animation=fadeIn" />
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mano%20Sekar%20M&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=18" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Beautiful+Flutter+Apps+%F0%9F%93%B1;Crafting+Full+Stack+Web+Platforms+%F0%9F%8C%90;Turning+Data+into+Decisions+%F0%9F%93%8A;Predicting+Markets+with+Fuzzy+Logic+%F0%9F%A4%96;Always+Building.+Always+Learning.+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manosekar-m/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manosekar_m/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manosekarm1221@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manosekar-m/mano-portfolio)
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+premium+mobile+experiences+%F0%9F%9A%80;Flutter+%7C+Dart+%7C+MERN+Stack+Engineer;Crafting+apps+that+people+love+%E2%9D%A4%EF%B8%8F;Open+to+exciting+opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=manosekar-m&label=Profile%20Views&color=7c3aed&style=for-the-badge)
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manosekar-m/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manosekar_m/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manosekarm1221@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manosekar-m)
+
+<br/>
+
+<!-- PROFILE VIEWS & FOLLOWERS -->
+![Profile Views](https://komarev.com/ghpvc/?username=manosekar-m&label=Profile%20Views&color=7C3AED&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/manosekar-m?label=Followers&style=flat-square&color=7C3AED)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🧑‍💻 About Me
 
-> *"I don't just write code — I engineer experiences, extract insights, and build things that matter."*
+```dart
+class ManoSekarM extends Developer {
+  final String name        = "ManoSekar M";
+  final String role        = "Flutter Developer & Full-Stack Engineer";
+  final String location    = "India 🇮🇳";
+  final String email       = "manosekarm1221@gmail.com";
 
-Hey! I'm **Manosekar M**, a multi-disciplinary developer from India 🇮🇳 who thrives at the intersection of **Mobile Development**, **Full Stack Engineering**, and **Data Science**.
+  final List<String> passions = [
+    "Building premium mobile apps with Flutter",
+    "Designing glassmorphic, high-end UIs",
+    "Full-stack MERN development",
+    "AI-integrated applications",
+    "Clean code & scalable architecture",
+  ];
 
-- 📱 I build polished, production-grade **Flutter apps** for Android & iOS
-- 🌐 I craft end-to-end **MERN stack** web platforms with AI integrations
-- 📊 I turn raw data into decisions using **Python, Power BI & ML models**
-- 🤖 I build intelligent systems — from **Fuzzy Logic stock predictors** to **AI travel chatbots**
-- 🌱 Currently leveling up in **Advanced ML**, **Big Data**, and **Cloud Deployment**
-- 🤝 Open to collaborating on impactful, real-world projects
-- 📬 Reach me: **manosekarm1221@gmail.com**
+  String get currentFocus => "Crafting production-grade apps that stand out";
+  bool   get openToWork   => true; // Always building something new 🚀
+}
+```
 
 ---
 
 ## 🚀 Featured Projects
 
-<details open>
-<summary><b>📱 Flutter Mobile Apps</b></summary>
+<div align="center">
 
-<br/>
+### 📋 Taskify — Premium Productivity App
+[![Taskify](https://img.shields.io/badge/Flutter-Taskify-7C3AED?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/manosekar-m/Taskify)
+[![Stars](https://img.shields.io/github/stars/manosekar-m/Taskify?style=for-the-badge&color=FFD700)](https://github.com/manosekar-m/Taskify/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/manosekar-m/Taskify?style=for-the-badge&color=00D4AA)](https://github.com/manosekar-m/Taskify/commits)
+[![Issues](https://img.shields.io/github/issues/manosekar-m/Taskify?style=for-the-badge&color=FF6B6B)](https://github.com/manosekar-m/Taskify/issues)
 
-### ✅ [Taskify — Premium Productivity App](https://github.com/manosekar-m/Taskify)
-> A high-performance **Flutter task manager** built for people who take their time seriously.
+</div>
 
-**Highlights:**
-- 🎯 **Focus Mode** — Pomodoro-style countdown timer per task with visual progress & audio alerts
-- 🔔 **Early Alert System** — Custom notification delays (5, 10, 30 min before deadlines)
-- 📝 **Rough Notes** — Built-in scratchpad with full CRUD & local persistence
-- 🎨 **Glassmorphism UI** — Material 3, dark/light themes, swipe gestures, smooth gradients
-- ⚡ **Hive Storage** — Lightning-fast local NoSQL database for a true offline-first experience
+> A **high-performance Flutter scheduling app** designed for maximum productivity. Features a sleek Material 3 UI with glassmorphism effects, Pomodoro-style Focus Mode timers, customizable Early Alert notifications, an integrated Rough Notes scratchpad, and lightning-fast Hive local storage — all with seamless dark/light theme switching.
 
-`Flutter` `Dart` `Hive` `Material 3` `Local Notifications` `Android` `iOS`
+**Tech Stack:** `Flutter` `Dart` `Hive` `Flutter Local Notifications` `Material 3`
 
 ---
 
-### 💰 [Fin-Tracker — Personal Finance Ecosystem](https://github.com/manosekar-m/Fin-Tracker)
-> Not just an expense logger — a **premium financial ecosystem** engineered for clarity and control.
+<div align="center">
 
-**Highlights:**
-- 🔐 **Biometric Security** — Fingerprint & FaceID protection via `local_auth`
-- 🧾 **Smart OCR Scanning** — Auto-extracts amounts, dates & merchants from receipt photos using Google ML Kit
-- 📈 **Interactive Charts** — Powered by `fl_chart` with fully custom animations
-- 💡 **Smart Budgeting** — Notes that auto-detect and sum expenses from free-form text
-- 🌟 **Glassmorphic Design System** — Dynamic blurs, staggered animations, premium dark/light UI
+### ✈️ VistaVoyage — AI-Powered Travel Platform
+[![VistaVoyage](https://img.shields.io/badge/MERN-VistaVoyage-FF6B6B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/manosekar-m/VistaVoyage)
+[![Stars](https://img.shields.io/github/stars/manosekar-m/VistaVoyage?style=for-the-badge&color=FFD700)](https://github.com/manosekar-m/VistaVoyage/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/manosekar-m/VistaVoyage?style=for-the-badge&color=00D4AA)](https://github.com/manosekar-m/VistaVoyage/commits)
+[![Issues](https://img.shields.io/github/issues/manosekar-m/VistaVoyage?style=for-the-badge&color=FF6B6B)](https://github.com/manosekar-m/VistaVoyage/issues)
 
-`Flutter` `Dart` `Hive` `Provider` `Google ML Kit` `fl_chart` `Biometrics` `Android` `iOS`
+</div>
 
-</details>
+> A **full-stack MERN travel agency platform** with an AI-powered Travel Architect (OpenAI GPT-3.5), secure JWT authentication for both users and admins, Cloudinary image uploads, multi-step booking flows, coupon management, feedback & reply system, and a comprehensive Recharts analytics dashboard. Fully Dockerized.
 
-<details open>
-<summary><b>🌐 Full Stack Web</b></summary>
-
-<br/>
-
-### ✈️ [VistaVoyage — AI-Powered Travel Booking Platform](https://github.com/manosekar-m/VistaVoyage)
-> A **full-stack MERN travel agency web app** with an AI Travel Architect, dual auth, admin analytics dashboard, and end-to-end booking flow.
-
-**Highlights:**
-- 🤖 **AI Travel Chatbot** — GPT-3.5-turbo powered assistant with smart rule-based fallback for queries like *"packages under ₹5000"* or *"best 3-day trips"*
-- 🛡️ **Dual Auth System** — Separate JWT-secured User & Admin authentication
-- 📦 **Full Package Management** — Cloudinary image uploads, filtering by price, location & duration
-- 📊 **Admin Dashboard** — Real-time Recharts analytics, booking status management, user controls
-- 💳 **Multi-step Booking Engine** — Dummy payment simulation, auto Booking ID (VV00001...)
-- 💬 **Feedback & Reply System** — User reviews with admin response capability
-- 🐳 **Docker Ready** — Containerized for easy deployment to Railway/Render
-
-`MongoDB` `Express.js` `React.js` `Node.js` `OpenAI API` `Cloudinary` `JWT` `Recharts` `Docker`
-
-</details>
-
-<details open>
-<summary><b>📊 Data Science & ML</b></summary>
-
-<br/>
-
-### 📈 [Stock Price Predictor — Fuzzy Logic](https://github.com/manosekar-m/stock-fuzzy-logic)
-> A **soft computing stock prediction system** using RSI, MACD & Daily % Change to forecast next-day prices.
-
-Classifies market movement as **Up 📈 / Down 📉 / Neutral ➡️** via scikit-fuzzy membership functions. Deployed as a live Flask web app using 40 years of Apple stock data (1984–2024).
-
-`Python` `Flask` `scikit-fuzzy` `Pandas` `HTML` `Soft Computing`
+**Tech Stack:** `MongoDB` `Express.js` `React` `Node.js` `OpenAI` `Cloudinary` `JWT` `Docker` `Recharts`
 
 ---
 
-### 📊 [Data Professional Survey Dashboard](https://github.com/manosekar-m/Data-Professional-Survey-Dashboard)
-> An interactive **Power BI dashboard** analyzing global survey data from data professionals — covering salaries, tools, work-life balance, and career trends.
+<div align="center">
 
-`Power BI` `Excel` `Data Visualization` `Business Intelligence`
+### 💰 Fin-Tracker — Personal Finance Ecosystem
+[![Fin-Tracker](https://img.shields.io/badge/Flutter-Fin--Tracker-00D4AA?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/manosekar-m/Fin-Tracker)
+[![Stars](https://img.shields.io/github/stars/manosekar-m/Fin-Tracker?style=for-the-badge&color=FFD700)](https://github.com/manosekar-m/Fin-Tracker/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/manosekar-m/Fin-Tracker?style=for-the-badge&color=00D4AA)](https://github.com/manosekar-m/Fin-Tracker/commits)
+[![Issues](https://img.shields.io/github/issues/manosekar-m/Fin-Tracker?style=for-the-badge&color=FF6B6B)](https://github.com/manosekar-m/Fin-Tracker/issues)
+
+</div>
+
+> A **premium personal finance tracker** that goes beyond simple expense logging. Includes biometric security (Fingerprint/Face ID), Google ML Kit OCR for automatic receipt scanning, smart budget planning with natural language parsing, staggered animations via flutter_animate, a glassmorphic design system, and interactive fl_chart analytics — all with full offline support.
+
+**Tech Stack:** `Flutter` `Dart` `Provider` `Hive` `Google ML Kit` `local_auth` `fl_chart` `flutter_animate`
 
 ---
 
-### 🌐 [Personal Portfolio Website](https://github.com/manosekar-m/mano-portfolio)
-> Clean, responsive portfolio built from scratch with pure HTML, CSS & JavaScript.
+## 🛠️ Tech Stack & Tools
 
-`HTML` `CSS` `JavaScript`
-
-</details>
-
----
-
-## 🛠️ Tech Stack
+<div align="center">
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-### 🌐 Full Stack Web
+### 🌐 Web & Full-Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 📊 Data & Analytics
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🤖 AI & Machine Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🤖 AI & Analytics
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔧 Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
@@ -167,76 +135,73 @@ Classifies market movement as **Up 📈 / Down 📉 / Neutral ➡️** via sciki
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manosekar-m&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manosekar-m&theme=tokyonight&hide_border=true" height="170" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manosekar-m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manosekar-m&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manosekar-m&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=8" height="155" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manosekar-m&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&layout=donut&include_all_commits=true&count_private=true" />
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH -->
+[![Mano's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manosekar-m&bg_color=0D1117&color=A78BFA&line=7C3AED&point=00D4AA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- TROPHIES -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=manosekar-m&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Live Repository Stats
 
-<div align="center">
+<!-- These badges auto-update every time GitHub renders your profile -->
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=manosekar-m&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+| Project | Language | Commits | Last Updated | Stars |
+|:--------|:---------|:--------|:-------------|:------|
+| [📋 Taskify](https://github.com/manosekar-m/Taskify) | ![Dart](https://img.shields.io/github/languages/top/manosekar-m/Taskify?style=flat-square&color=00B4D8) | ![Commits](https://img.shields.io/github/commit-activity/t/manosekar-m/Taskify?style=flat-square&color=7C3AED) | ![Last Commit](https://img.shields.io/github/last-commit/manosekar-m/Taskify?style=flat-square&color=00D4AA) | ![Stars](https://img.shields.io/github/stars/manosekar-m/Taskify?style=flat-square&color=FFD700) |
+| [✈️ VistaVoyage](https://github.com/manosekar-m/VistaVoyage) | ![JS](https://img.shields.io/github/languages/top/manosekar-m/VistaVoyage?style=flat-square&color=F7DF1E) | ![Commits](https://img.shields.io/github/commit-activity/t/manosekar-m/VistaVoyage?style=flat-square&color=FF6B6B) | ![Last Commit](https://img.shields.io/github/last-commit/manosekar-m/VistaVoyage?style=flat-square&color=00D4AA) | ![Stars](https://img.shields.io/github/stars/manosekar-m/VistaVoyage?style=flat-square&color=FFD700) |
+| [💰 Fin-Tracker](https://github.com/manosekar-m/Fin-Tracker) | ![Dart](https://img.shields.io/github/languages/top/manosekar-m/Fin-Tracker?style=flat-square&color=00B4D8) | ![Commits](https://img.shields.io/github/commit-activity/t/manosekar-m/Fin-Tracker?style=flat-square&color=00D4AA) | ![Last Commit](https://img.shields.io/github/last-commit/manosekar-m/Fin-Tracker?style=flat-square&color=00D4AA) | ![Stars](https://img.shields.io/github/stars/manosekar-m/Fin-Tracker?style=flat-square&color=FFD700) |
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manosekar-m&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+> ⚡ **All badges above are live** — they refresh automatically whenever someone views this profile.
 
 ---
 
-## 🗺️ Skill Progression
+## 🎯 What I Build
 
-```text
-📱 Flutter / Dart   ████████████████░░░░   Growing fast — 2 production apps shipped
-🌐 MERN Stack       ██████████████░░░░░░   Full AI-integrated platform delivered
-📊 Data / Power BI  ████████████░░░░░░░░   Dashboards, pipelines, ML models built
-🐍 Python / ML      ████████████░░░░░░░░   Fuzzy logic, Pandas, scikit-learn
-🤖 AI / LLMs        ██████░░░░░░░░░░░░░░   OpenAI integrated, diving deeper into GenAI
-☁️ Cloud / DevOps   ████████░░░░░░░░░░░░   Docker deployed, exploring AWS & Firebase
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│   📱  Premium Flutter Apps    →  Taskify · Fin-Tracker           │
+│   🌐  Full-Stack Web Apps     →  VistaVoyage (MERN)              │
+│   🤖  AI-Integrated Systems   →  OpenAI · ML Kit · Fuzzy Logic   │
+│   🎨  High-End UI/UX          →  Material 3 · Glassmorphism      │
+│   🔐  Secure Applications     →  JWT · Biometrics · Hive         │
+│                                                                   │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## ✍️ Dev Quote of the Day
+## 🤝 Let's Connect
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm always open to **collaborations**, **freelance projects**, and **exciting opportunities**. If you have an idea or just want to say hi, reach out!
 
-</div>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manosekar-m/)
+[![Email](https://img.shields.io/badge/Drop_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manosekarm1221@gmail.com)
+[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manosekar_m/)
+
+<br/>
 
 ---
 
-## 🤝 Let's Connect & Build Together
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
-<div align="center">
-
-💼 I'm actively looking for opportunities in **Flutter Development**, **Full Stack Engineering**, **Data Analytics**, and **ML Engineering**.
-
-Whether it's a job offer, freelance project, open-source collab, or just geeking out over tech — **I'm always up for it!**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manosekar-m/)
-[![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manosekarm1221@gmail.com)
-[![Instagram](https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manosekar_m/)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" />
+*⭐ If any of my projects helped you, consider starring them — it means a lot!*
 
 </div>
